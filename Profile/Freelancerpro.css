@@ -1,0 +1,19 @@
+.container{
+    position: relative;
+    font-family: Arial;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(bg2.jpg);
+    background-position: center;
+    background-size: cover;
+}  
+.text-block{
+    position: absolute;
+    top: 200px;
+    left: 70px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.8;
+}
